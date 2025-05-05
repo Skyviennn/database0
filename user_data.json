@@ -678,5 +678,9 @@
   "sky": {
     "name": "sky",
     "password": "sky"
+  },
+  "p": {
+    "name": "p",
+    "password": "p"
   }
 }
